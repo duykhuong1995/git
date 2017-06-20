@@ -1,3 +1,6 @@
 ﻿b1 nhân b?n : git clone
 b2 d?ng b? vào local :  git commit -m"Add new file duykhuong.txt"
 b3 d?ng b? vs github : git push
+
+
+This is my change
